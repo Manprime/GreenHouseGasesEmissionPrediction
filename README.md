@@ -8,3 +8,4 @@
 
 <b>Tools:
 <p>#pip install scikit-learn as sklearn's original name is "scikit-learn"</p>
+Python, Pandas, Scikit-learn, Matplotlib, Seaborn , numpy, joblib, openpyxl
