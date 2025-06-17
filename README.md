@@ -5,3 +5,6 @@
 
 <b>Dataset:
 <p>U.S. industries and commodities official dataset from data.gov.</p>
+
+<b>Tools:
+<p>#pip install scikit-learn as sklearn's original name is "scikit-learn"</p>
