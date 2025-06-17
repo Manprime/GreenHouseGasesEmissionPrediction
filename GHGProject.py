@@ -3,7 +3,6 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-#pip install scikit-learn as sklearn's original name is "scikit-learn"
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestRegressor
@@ -11,7 +10,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 import joblib
 
 #path of file
-excel_file = "/.EmissionsDataset.xlsx"
+excel_file = "./EmissionsDataset.xlsx"
 years = range(2010, 2017)
 
 years[2]
