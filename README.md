@@ -9,3 +9,7 @@
 <b>Tools:
 <p>#pip install scikit-learn as sklearn's original name is "scikit-learn"</p>
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn , numpy, joblib, openpyxl
+
+Tips:
+-Source code and app is in Week 3
+-Extract models.zip in same folder as source code and app
