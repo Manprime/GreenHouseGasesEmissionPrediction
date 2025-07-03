@@ -11,5 +11,5 @@
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn , numpy, joblib, openpyxl
 
 <b>Tips:<br>
-<p>-Source code and app is in Week 3</p><br>
+<p>-Source code and app is in Week 3</p>
 <p>-Extract models.zip in same folder as source code and app</p><br>
