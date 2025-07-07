@@ -10,7 +10,7 @@
 <p>#pip install scikit-learn as sklearn's original name is "scikit-learn"</p>
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn , numpy, joblib, openpyxl
 
-<h3>Instruction;</h3>
+<h3>Instruction:</h3>
 -Source code and application is in Week 3
 <p>-Extract models.zip in same folder as source code and app to use.</p><br>
 The model is around 32mb. It is in compressed form(.zip) as GitHub doesnot allow files more than 25 mb.<br>
@@ -33,7 +33,7 @@ The model is around 32mb. It is in compressed form(.zip) as GitHub doesnot allow
 
 <h6>Step 7: Hyperparameter Tuning</h6>
 -Did hyperparameter tuning for Random Forest Regressor using GridSearchCV
-<h6>Step 8: Did comparative study among the models and based on the results selected the best model</h6>
+<h6>Step 8: Did comparative study among the models and based on the results selected the best model</h6><br>
 <h4>Results:</h4>
 <table>
 <tr>
@@ -48,6 +48,19 @@ The model is around 32mb. It is in compressed form(.zip) as GitHub doesnot allow
   <td>7.881378e-08</td>
   <td>0.000281</td>
   <td>0.99999</td>
+</tr>
+
+<tr>
+  <td>Random Forest(Default)</td>
+  <td>3.774615e-08</td>
+  <td>0.006144</td>
+  <td>0.999328</td>
+</tr>
+<tr>
+  <td>Random Forest(Tuned)</td>
+  <td>3.538499e-08</td>
+  <td>0.005949</td>
+  <td>0.999370</td>
 </tr>
 </table>
 
