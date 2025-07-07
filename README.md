@@ -34,7 +34,7 @@ The model is around 32mb. It is in compressed form(.zip) as GitHub doesnot allow
 <h6>Step 7: Hyperparameter Tuning</h6>
 -Did hyperparameter tuning for Random Forest Regressor using GridSearchCV
 <h6>Step 8: Did comparative study among the models and based on the results selected the best model</h6><br>
-<h4>Results:</h4>
+<h3>Results:</h3>
 <table>
 <tr>
 <th>Model</th>
@@ -47,7 +47,7 @@ The model is around 32mb. It is in compressed form(.zip) as GitHub doesnot allow
   <td>Linear Regression</td>
   <td>7.881378e-08</td>
   <td>0.000281</td>
-  <td>0.99999</td>
+  <td>0.999999</td>
 </tr>
 
 <tr>
